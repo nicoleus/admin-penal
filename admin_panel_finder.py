@@ -34,8 +34,8 @@ def Credit():
 	Space(9); print "#   *** Admin Panel Finder ***   #"
 	Space(9); print "#     Script Nicoleus Sitorus  #"
 	Space(9); print "#    Stay llegal Cuuyy   #"
-  Space(9); print "#  YOUTUBE : ady sitorus ady #"
-  Space(9); print "#  FACEBOOK: Nicoleus Sitorus #"
+        Space(9); print "#  YOUTUBE : ady sitorus ady #"
+        Space(9); print "#  FACEBOOK: Nicoleus Sitorus #"
 	Space(9); print "#####################################"
 
 Credit()
